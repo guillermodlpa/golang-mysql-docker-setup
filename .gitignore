@@ -1,0 +1,2 @@
+# Ignoring files with env variables, like pwds or keys
+docker/**/*.env
